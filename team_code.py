@@ -2,7 +2,7 @@
 
 # team_code.py for PhysioNet Challenge 2025 - Chagas Disease Detection
 # Author: Saber Jelodari
-# Date 15 Aug July 2025
+# Date 15 Aug 2025
 # Version: V2-2
 
 import os
