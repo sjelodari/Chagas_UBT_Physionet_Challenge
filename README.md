@@ -4,7 +4,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Challenge](https://img.shields.io/badge/PhysioNet-Challenge%202025-green.svg)](https://physionetchallenges.org/2025/)
 [![Docker Ready](https://img.shields.io/badge/Docker-ready-blue?logo=docker)](#-docker)
-[![Paper](https://img.shields.io/badge/Paper-PDF-red?logo=adobeacrobatreader)]([https://cinc.org/2025/Program/accepted/126_Preprint.pdf](https://www.researchgate.net/publication/398674423_Sequential_Deep_Learning_for_Chagas_Disease_Screening_A_CNN-BiLSTM_Approach_with_an_Attention_Mechanism)
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?logo=adobeacrobatreader)](https://www.researchgate.net/publication/398674423_Sequential_Deep_Learning_for_Chagas_Disease_Screening_A_CNN-BiLSTM_Approach_with_an_Attention_Mechanism)
 
 ---
 
