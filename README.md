@@ -16,7 +16,7 @@
 _A deep learning approach for automated Chagas disease detection from 12-lead ECGs using CNN, BiLSTM, and Attention
 mechanisms._
 
-> 📝 **[Read our paper](https://cinc.org/2025/Program/accepted/126_Preprint.pdf)**
+> 📝 **[Read our paper](https://www.researchgate.net/publication/398674423_Sequential_Deep_Learning_for_Chagas_Disease_Screening_A_CNN-BiLSTM_Approach_with_an_Attention_Mechanism)**
 
 ---
 
