@@ -141,13 +141,13 @@ docker run -it -v ~/data:/challenge/data chagas_ubt bash
 ## 📖 Citation
 
 ```bibtex
-@inproceedings{jelodari2025chagas,
-  title={Sequential Deep Learning for Chagas Disease Screening:
-         A CNN-BiLSTM Approach with an Attention Mechanism},
-  author={Jelodari Mamaghani, Saber and Bokun, Adam and Leutheuser, Heike},
-  booktitle={Computing in Cardiology},
-  volume={52},
-  year={2025}
+@inproceedings{inproceedings,
+author = {Mamaghani, Saber and Bokun, Adam and Leutheuser, Heike},
+year = {2025},
+month = {12},
+pages = {},
+title = {Sequential Deep Learning for Chagas Disease Screening: A CNN-BiLSTM Approach with an Attention Mechanism},
+doi = {10.22489/CinC.2025.126}
 }
 ```
 
